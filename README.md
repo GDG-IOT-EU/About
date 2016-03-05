@@ -13,7 +13,7 @@ Because of the many different languages in Europe, the chosen language for the c
 A chapter is a group of individuals related to any form of Google Developer Groups in their respective countries.
 
 ### Github Organisation
-Every member of a chapter will be part of the GDG-IOT-EU Github organisation and team member of their country. It is possible for any member to contribute to the website following the guidelines of the contribute.md in the Github repository.
+Every member of a chapter will be part of the GDG-IOT-EU Github organisation and team member of their country. It is possible for any member to contribute to the website following the guidelines of the contribute.md in the [Github repository](https://github.com/GDG-IOT-EU).
 
 ### Core Team
 GDG-IOT-EU will have a core team looking after the
