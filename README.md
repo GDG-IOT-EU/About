@@ -1,6 +1,8 @@
 # Google Developers Internet of Things Community
 The Google Developers Internet of Things Community (GDG-IOT-EU) is a community-based platform for developers, designers, businesses, students and others that want to be kept up-to-date on the latest developments around the Internet of Things and The Physical Web. Rather than focussing on individual European countries, the focus is on Europe which includes individual chapters per country.
 
+GDG-IOT-EU could be seen as a fork from the [existing developer groups](https://developers.google.com/groups/) but with a focus on IoT.
+
 The GDG-IOT-EU community is a branch of the existing Google Developer Groups.
 
 ### Community Pages
